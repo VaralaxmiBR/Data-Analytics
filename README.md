@@ -1,2 +1,2 @@
 # Python
-Edu_Byte Assignments
+CASE STUDIES 
