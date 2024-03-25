@@ -1,2 +1,2 @@
-# Python
+# Data Analytics
 CASE STUDIES 
